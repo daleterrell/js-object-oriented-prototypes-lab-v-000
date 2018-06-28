@@ -18,7 +18,7 @@
 //   }
 //
 //   this.sayHi = function(){
-//     return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.
+//     return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
 //   }
 // }
 
@@ -46,4 +46,3 @@ function BoardMember(name, homeState, training){
   BoardMember.prototype.sayHi = function(){
     return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
   }
-© 2018 GitHub, Inc.
